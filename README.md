@@ -1,4 +1,4 @@
-# Naota.dev
+# Naota by Codedhims
 
 ### Main-Projects 🏗️
 - Nakoin : Exchange Crypto-Fiat
