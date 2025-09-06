@@ -4,5 +4,5 @@
 - Nakoin : Exchange Crypto-Fiat
 
 ### Side-Projects 🎏
-- Nao-Mangrove : Modern-Monolith AdonisJS | Inertia | React
-- Nao-Monoleaf : Spring-Boot serve React as Static
+- Nao-Monoleaf-AR : AdonisJS | Modern-Monolith with Inertia
+- Nao-Monoleaf-JR : Java serve Front-End as Static
