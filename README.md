@@ -1,4 +1,5 @@
-# Naota by Codedhims
+# ☕ Naota | Java
+build scalable and system where robust & no horrible, concurrency & parallelism , metal-access & extreme optimizations and wide-ecosystem.
 
 ### Main-Projects 🏗️
 - Nakoin : Exchange Crypto-Fiat
