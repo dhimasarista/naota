@@ -1,10 +1,9 @@
-# ☕ Naota | Java
+# 🎋 Naota | Java
 build scalable and system where robust & no horrible, concurrency & parallelism , metal-access & extreme optimizations and wide-ecosystem.
-<img width="3120" height="1908" alt="ray-so-export (5)" src="https://github.com/user-attachments/assets/b9109ad7-6f10-4610-b551-f7e4e290a81d" />
+<img width="2081" height="1021" alt="ray-so-export (5)" src="https://github.com/user-attachments/assets/ddd1cc89-fa00-4b57-ad54-87b1e9765280" />
 
 ### Main-Projects 🏗️
 - Nakoin : Exchange Crypto-Fiat
-
 ### Side-Projects 🎏
 - Nao-Monoleaf-AR : AdonisJS | Modern-Monolith with Inertia
 - Nao-Monoleaf-JR : Java serve Front-End as Static
